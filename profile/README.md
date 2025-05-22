@@ -1,4 +1,4 @@
-# Taraftarium24 – HD Yayınlarla Canlı Maç Keyfi
+# Taraftarium24 👑 Taraftarium 👑 HD Yayınlarla Canlı Maç Keyfi
 
 ⚽ **taraftarium24** üzerinden en sevdiğiniz maçları anlık olarak takip edin! Futbol, basketbol, tenis ve daha fazlası tek tıkla ekranınızda.
 
