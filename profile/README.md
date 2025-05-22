@@ -27,21 +27,4 @@ Bu içerik yalnızca tanıtım ve bilgilendirme amacı taşımaktadır. Yayın h
 
 ---
 
-## 🔗 Diğer Popüler Yayın Sayfaları
-
-<a href="https://macizlemesitesi.com" title="BossTV">BossTV</a>  
-<a href="https://macizlemesitesi.com/selcuksportshd" title="SelçukSportsHD">SelçukSportsHD</a>  
-<a href="https://macizlemesitesi.com/selcuksportshd" title="SelcukSportsHD">SelcukSportsHD</a>  
-<a href="https://macizlemesitesi.com/taraftarium24" title="Taraftarium24">Taraftarium24</a>  
-<a href="https://macizlemesitesi.com/inat-tv" title="İnat-TV">İnat TV</a>  
-<a href="https://macizlemesitesi.com/inat-tv" title="Inat-TV">Inat TV</a>  
-<a href="https://macizlemesitesi.com/inat-tv" title="InatTV">InatTV</a>  
-<a href="https://macizlemesitesi.com/inat-tv" title="İnatTV">İnatTV</a>  
-<a href="https://macizlemesitesi.com/netspor-tv" title="NetSpor">NetSpor</a>  
-<a href="https://macizlemesitesi.com/justin-tv" title="Justin-TV">Justin TV</a>  
-<a href="https://macizlemesitesi.com/justin-tv" title="JustinTV">JustinTV</a>  
-<a href="https://macizlemesitesi.com/trgoals" title="TRGoals">TRGoals</a>  
-
----
-
 ### ⚽ Hemen Katıl, Canlı Maç Keyfini Kaçırma!
