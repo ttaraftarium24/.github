@@ -2,9 +2,11 @@
 
 ⚽ **taraftarium24** üzerinden en sevdiğiniz maçları anlık olarak takip edin! Futbol, basketbol, tenis ve daha fazlası tek tıkla ekranınızda.
 
-## 🔗 Yayın Adresi
+## 🔗 Link
 
-👉 [Canlı Maçlar İçin Siteyi Ziyaret Et](https://bosstv1.com/)
+<a href="https://bosstv1.com/">
+  <img src="https://i.ibb.co/FL3kspJ2/canliizle.gif"  style="max-width:100%; border-radius:12px;">
+</a>
 
 ## 🎯 Taraftarium Neden Tercih Ediliyor?
 
